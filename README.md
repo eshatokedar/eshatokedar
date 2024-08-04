@@ -1,4 +1,5 @@
-![Banner](https://github.com/eshatokedar/raw/main/Screenshot 2024-08-04 201319.png)
+![Banner](https://raw.githubusercontent.com/eshatokedar/eshatokedar/main/Screenshot%202024-08-04%20201319.png)
+
 
 <p align="left"> <img src="https://github.com/users/eshatokedar/Screenshot 2024-08-04 201319.png&color=0e75b6&style=flat" alt="eshatokedar" /> </p>
 
