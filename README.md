@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Esha Tokedar 👋</h1>
-<h3 align="center">Full Stack Developer and UI/UX Designer</h3>
+<h3 align="center">-- A Full Stack Developer and UI/UX Designer --</h3>
 
 <br>
 
 - 📚 I'm a Pre-final year IT student at **RCC Institute of Information Technology**.
 - 🌱 I’m currently working on **Web Development and Animation**.
-- 👯 I’m looking for Internships .  
-- 💞️ I’m looking forward to connect and contribute everywhere possible, and learn from the collaborations and Willing to Participate in Hackathons.
+- 👯 I’m looking for Internships, intermediate level projects.  
+- 💞️ I’m looking forward to connect and contribute on any development related projects and participate in hackathons.
 - 📫 Contact me at : **eshatokedar@gmail.com**
 
 <br>
@@ -34,7 +34,7 @@
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase)](https://skillicons.dev)
 
 ### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,npm,postman,docker,git,github,netlify,replit)](https://skillicons.dev)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,npm,git,github,netlify)](https://skillicons.dev)
 
 
 <br/>
