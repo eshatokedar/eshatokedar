@@ -1,5 +1,4 @@
-// ![logo](https://github.com/eshatokedar/Screenshot 2024-08-04 201319.png)
-<p align="left"> <img src="https://github.com/eshatokedar/Screenshot 2024-08-04 201319.png&color=0e75b6&style=flat" alt="eshatokedar" /> </p>
+<p align="left"> <img src="https://github.com/users/eshatokedar/Screenshot 2024-08-04 201319.png&color=0e75b6&style=flat" alt="eshatokedar" /> </p>
 
 <h1 align="center">Hey, I'm Esha Tokedar 👋</h1>
 <h3 align="center">-- A Full Stack Developer and UI/UX Designer --</h3>
