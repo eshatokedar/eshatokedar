@@ -1,16 +1,10 @@
 ![Banner](https://raw.githubusercontent.com/eshatokedar/eshatokedar/main/Screenshot%202024-08-04%20201319.png)
 
-
-<h1 align="center">Hey, I'm Esha Tokedar 👋</h1>
-<h3 align="center">-- A Full Stack Developer and UI/UX Designer --</h3>
-
 <br>
 
-- 📚 I'm a Pre-final year IT student at **RCC Institute of Information Technology**.
-- 🌱 I’m currently working on **Web Development and Animation**.
-- 👯 I’m looking for Internships, intermediate level projects.  
-- 💞️ I’m looking forward to connect and contribute on any development related projects and participate in hackathons.
-- 📫 Contact me at : **eshatokedar@gmail.com**
+- 📚  Pre-final year IT student at **RCC Institute of Information Technology**.
+- 🌱 Currently working on **Web Development and Animation**.
+- 📫 Contact me at : **etokedar@gmail.com**
 
 <br>
 
@@ -28,13 +22,13 @@
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=java,c,cpp,python,js)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=java,c,python,js)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,mui,nodejs,expressjs,fastapi)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,mui,nodejs,expressjs)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase)](https://skillicons.dev)
+[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
 
 ### IDEs and Tools
 [![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,npm,git,github,netlify)](https://skillicons.dev)
@@ -49,8 +43,8 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshatokedar&layout=compact&theme=dark#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=eshatokedar&show_icons=true&include_all_commits=true&theme=dark">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshatokedar&theme=dark">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=eshatokedar&show_icons=true&include_all_commits=true&theme=dark"> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshatokedar&theme=dark"> -->
 </div>
 
 <div align="center">
